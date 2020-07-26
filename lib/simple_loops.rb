@@ -14,3 +14,11 @@ while count < n do
   count +=1
 end
   end
+
+def output_array(array)
+  count = 0
+  while count < array.length do
+    
+  end
+
+end
